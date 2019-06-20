@@ -1,8 +1,10 @@
 # Testing the app : 
-To test the app, please visite the folling link : `https://cismael.github.io/first-react-app/`
+To test the app, please visit the folling link : `https://cismael.github.io/first-react-app/`
 
-
+## 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## 
 
 ## Available Scripts
 
