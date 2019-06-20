@@ -1,5 +1,16 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+#intelliJ
+*.classpath
+*.project
+*.settings
+*generated
+\.idea/
+
+*.iml
+/*/*.iml
+
+
 # dependencies
 /node_modules
 /.pnp
